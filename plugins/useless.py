@@ -20,8 +20,8 @@ async def useless(_, message: Message):
         # Inline keyboard buttons
         buttons = [
             [
-                InlineKeyboardButton("ᴏɴɢᴏɪɴɢ ᴀɴɪᴍᴇ ᴀʟᴘʜ", url="https://t.me/+bQKvn69l3k05NTZk"),
-                InlineKeyboardButton("ғɪɴɪsʜᴇᴅ ᴀɴɪᴍᴇ", url="https://t.me/+FpT9bYrGURA3NzFl"),
+                InlineKeyboardButton("main channel", url="https://t.me/+jFs1FWbFSvg0ZDc1"),
+                InlineKeyboardButton("join", url="https://t.me/+jFs1FWbFSvg0ZDc1"),
             ],
         ]
         # Check if START_PIC is set
